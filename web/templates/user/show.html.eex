@@ -1,0 +1,2 @@
+<h2>Name: <i><%= @user.name %></i></h2>
+<p>Email: <strong><%= @user.email %></strong></p>
